@@ -1,0 +1,15 @@
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\bin\Debug\RestfulService.WPFAppExample.exe.config
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\bin\Debug\RestfulService.WPFAppExample.exe
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\bin\Debug\RestfulService.WPFAppExample.pdb
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\obj\Debug\RestfulService.WPFAppExample.csprojResolveAssemblyReference.cache
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\obj\Debug\MainWindow.baml
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\obj\Debug\MainWindow.g.cs
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\obj\Debug\App.g.cs
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\obj\Debug\RestfulService.WPFAppExample_MarkupCompile.cache
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\obj\Debug\RestfulService.WPFAppExample.g.resources
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\obj\Debug\RestfulService.WPFAppExample.Properties.Resources.resources
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\obj\Debug\RestfulService.WPFAppExample.csproj.GenerateResource.Cache
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\obj\Debug\RestfulService.WPFAppExample.exe
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\obj\Debug\RestfulService.WPFAppExample.pdb
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\bin\Debug\WeatherData.dll
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulService.WPFAppExample\bin\Debug\WeatherData.pdb

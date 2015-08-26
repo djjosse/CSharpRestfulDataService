@@ -1,0 +1,8 @@
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulServices.Example\bin\Debug\RestfulServices.Example.exe.config
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulServices.Example\bin\Debug\RestfulServices.Example.exe
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulServices.Example\bin\Debug\RestfulServices.Example.pdb
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulServices.Example\bin\Debug\WeatherData.dll
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulServices.Example\bin\Debug\WeatherData.pdb
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulServices.Example\obj\Debug\RestfulServices.Example.csprojResolveAssemblyReference.cache
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulServices.Example\obj\Debug\RestfulServices.Example.exe
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\RestfulServices.Example\obj\Debug\RestfulServices.Example.pdb

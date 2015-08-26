@@ -1,0 +1,4 @@
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData\bin\Debug\WeatherData.dll
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData\bin\Debug\WeatherData.pdb
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData\obj\Debug\WeatherData.dll
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData\obj\Debug\WeatherData.pdb

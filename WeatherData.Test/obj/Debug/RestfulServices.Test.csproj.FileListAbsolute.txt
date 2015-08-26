@@ -1,0 +1,7 @@
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData.Test\bin\Debug\WeatherData.Test.dll
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData.Test\bin\Debug\WeatherData.Test.pdb
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData.Test\bin\Debug\WeatherData.dll
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData.Test\bin\Debug\WeatherData.pdb
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData.Test\obj\Debug\RestfulServices.Test.csprojResolveAssemblyReference.cache
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData.Test\obj\Debug\WeatherData.Test.dll
+c:\users\gleyz_000\documents\visual studio 2013\Projects\WeatherData\WeatherData.Test\obj\Debug\WeatherData.Test.pdb
